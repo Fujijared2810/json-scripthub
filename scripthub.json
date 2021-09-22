@@ -1,0 +1,40 @@
+{
+	"scripthub": {
+		"Dex Explorer": {
+			"Name": "Dex Explorer",
+			"source": "https://cdn.discordapp.com/attachments/856792157741121566/890031688875397140/Dex_Syn_Ver.txt",
+			"Description": "A version of popular Dex explorer with patches specifically for. Bypasses most anti-exploits aswell.",
+			"Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890030404319469588/3e5236858ce63145ca2a5c993e55ef6e.png"
+		},
+		"Dark Hub":{
+			"Name": "Dark Hub", 
+            "source": "https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", 
+            "Description": "Best Hub for FPS Games and more!", 
+            "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890032192472903750/DarkHublogo1.png"
+		},
+		"Owl Hub":{
+			"Name": "Owl Hub",
+			"source": "https://raw.githubusercontent.com/ZinityDrops/OwlHubLink/master/OwlHubBack.lua",
+			"Description": "Still one of the best hub for FPS Games and much more!",
+			"Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890032890719657984/owl-hub1.png"
+		},
+		"Infinite Yield":{
+			"Name": "Infinite Yield",
+			"source": "https://infyield.yolasite.com/resources/IY_FE.txt",
+			"Description": "One of Popular Admin Commands with FE!",
+			"Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890033506057588836/f3658200-3abc-11ea-973a-b024e3a60673.png"
+		},
+		"Domain Hub V2":{
+			"Name": "Domain Hub V2",
+			"source": "https://raw.githubusercontent.com/shlexsoftworks/Domain/main/source",
+			"Description": "Free Roblox Script Domain Hub V2 - The ultimate tool for Roblox",
+			"Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890034125795389480/PC5ARCZ.png"
+		},
+		"CMD X":{
+			"Name": "CMD X",
+			"source": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/CMD-X",
+			"Description": "An admin command's script",
+			"Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890034644127481927/t8BF4Th.png"
+		}
+	}
+}
